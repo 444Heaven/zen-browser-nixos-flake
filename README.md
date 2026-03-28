@@ -4,7 +4,7 @@ in the inputs
 ```nix
   zen-browser.url = "github:loyaall/zen-browser-nixos-flake";
 ```
-
+in the outputs you just need to add zen-browser
 ### On home.nix
 in the imports
 ```nix
