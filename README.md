@@ -2,7 +2,7 @@
 ### On flake.nix
 in the inputs
 ```nix
-  zen-browser.url = "github:loyaall/zen-browser-nixos-flake";
+  zen-browser.url = "github:444heaven/zen-browser-nixos-flake";
 ```
 in the outputs you just need to add zen-browser
 ### On home.nix
